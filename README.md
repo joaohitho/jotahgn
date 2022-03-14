@@ -19,6 +19,6 @@
 ---
 
 ## 🎶 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2qnmnqlzg7pcoh2ibylairhva&cover_image=false&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2qnmnqlzg7pcoh2ibylairhva&cover_image=true&theme=default&bar_color=bc1010&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31a2qnmnqlzg7pcoh2ibylairhva&redirect=true)
 
 ----
