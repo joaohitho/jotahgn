@@ -20,7 +20,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## 🎶 Spotify
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotahgn&show_icons=true)
 
 ----
