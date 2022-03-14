@@ -26,6 +26,4 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotahgn&show_icons=true)
 
-<h1 align="center">Hi 👋, I'm Jota</h1>
-<h3 align="center"></h3>
 ----
