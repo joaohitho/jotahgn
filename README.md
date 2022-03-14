@@ -1,4 +1,4 @@
-## 💜 Hello, iam <strong>Jota!</strong>
+## 💜 Hello, I'am <strong>Jota!</strong>
 
 > A passionate backend developer from Brazil.
 ----
