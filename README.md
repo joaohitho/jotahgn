@@ -19,6 +19,6 @@
 ---
 
 ## 🎶 Spotify
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotahgn&show_icons=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2qnmnqlzg7pcoh2ibylairhva&cover_image=false&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ----
