@@ -17,8 +17,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ---
-
-## 🎶 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2qnmnqlzg7pcoh2ibylairhva&cover_image=true&theme=default&bar_color=bc1010&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31a2qnmnqlzg7pcoh2ibylairhva&redirect=true)
-
-----
