@@ -5,7 +5,7 @@ Backend Developer
 Olá, meu nome é João Paulo ou "Jota". Sou freelancer como Backend Developer e atualmente curso Egenharia de Software.
 
 Minha jornada na programação é marcada por paixão, dedicação e um entusiasmo constante para aprender e evoluir.
-Estou sempre explorando novas tecnologias e buscando maneiras de aprimorar minhas habilidades. Sou particularmente apaixonado por backend development, onde posso desafiar minhas capacidades lógicas e contribuir para soluções robustas.
+Estou sempre explorando novas tecnologias e buscando maneiras de aprimorar minhas habilidades. Sou particularmente apaixonado por backend, onde posso desafiar minhas capacidades lógicas e sempre evoluir para soluções mais robustas.
 
 Tudo se resolve com café! Com um café e música ao lado, transformo as notas e os bytes em experiências extraordinárias.
 
