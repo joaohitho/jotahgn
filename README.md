@@ -7,7 +7,7 @@ Olá, meu nome é João Paulo ou "Jota". Sou freelancer como Backend Developer e
 Minha jornada na programação é marcada por paixão, dedicação e um entusiasmo constante para aprender e evoluir.
 Estou sempre explorando novas tecnologias e buscando maneiras de aprimorar minhas habilidades. Sou particularmente apaixonado por backend development, onde posso desafiar minhas capacidades lógicas e contribuir para soluções robustas.
 
-Tudo se resolve com café! Com um café ao lado, transformo as notas e os bytes em experiências extraordinárias.
+Tudo se resolve com café! Com um café e música ao lado, transformo as notas e os bytes em experiências extraordinárias.
 
 [![Gmail Badge](https://img.shields.io/badge/-httpsjotaa@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:httpsjotaa@gmail.com)](mailto:httpsjotaa@gmail.com)
 
