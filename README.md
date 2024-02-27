@@ -1,4 +1,4 @@
-#💜 Olá, I'am <strong>Jota!</strong>
+#💜 Olá, Bem vindo ao meu git! Eu sou o <strong>Jota!</strong>
 
 Backend Developer
 
