@@ -9,7 +9,7 @@ Estou sempre explorando novas tecnologias e buscando maneiras de aprimorar minha
 
 Tudo se resolve com café! Com um café e música ao lado, transformo as notas e os bytes em experiências extraordinárias.
 
-[![Gmail Badge](https://img.shields.io/badge/-httpsjotaa@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotahgn@gmail.com)](mailto:jotahgn@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jotahgn@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotahgn@gmail.com)](mailto:jotahgn@gmail.com)
 
 ----
 
