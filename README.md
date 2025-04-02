@@ -23,7 +23,7 @@ Desde os 14 anos, venho trilhando minha jornada na programação com paixão e d
 
 ## 📫 Entre em Contato  
 
-[![Gmail Badge](https://img.shields.io/badge/-jotahgn@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotahiginot@gmail.com)](mailto:jotahiginot@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jotahiginot@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotahiginot@gmail.com)](mailto:jotahiginot@gmail.com)
 
 ---
 
